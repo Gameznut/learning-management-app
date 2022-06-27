@@ -11,25 +11,25 @@
             >
           </li>
           <li>
-            <NuxtLink class="link" to="/Courses"
+            <NuxtLink class="link" to="/courses"
               ><span class="w-[30px] inline-block"><Courses class="" /> </span>
               Courses</NuxtLink
             >
           </li>
           <li>
-            <NuxtLink class="link" to="/Courses"
+            <NuxtLink class="link" to="#"
               ><span class="w-[30px] inline-block"><Grades /> </span>
               Grades</NuxtLink
             >
           </li>
           <li>
-            <NuxtLink class="link" to="/Courses"
+            <NuxtLink class="link" to="#"
               ><span class="w-[30px] inline-block"><Schedule /> </span>
               Schedule</NuxtLink
             >
           </li>
           <li>
-            <NuxtLink class="link" to="/Courses"
+            <NuxtLink class="link" to="#"
               ><span class="w-[30px] inline-block"><Settings /> </span>
               Settings</NuxtLink
             >
